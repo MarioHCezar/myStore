@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Sedex Hoje",
+    "price": 45.99
+  },
+  {
+    "type": "Overnight",
+    "price": 25.99
+  },
+  {
+    "type": "2-Day",
+    "price": 9.99
+  },
+  {
+    "type": "Postal",
+    "price": 2.99
+  },
+  {
+    "type": "Bicicleta",
+    "price": 1.99
+  }
+]

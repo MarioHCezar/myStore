@@ -1,0 +1,28 @@
+.title{
+  display: flex;
+  flex-direction: column;
+}
+
+.products{
+  display: flex;
+  flex-direction: row;
+  margin: 1rem;
+  padding: 1rem;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.products div
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  width: 300px;
+  height: 300px;
+
+}
+
+.mat-mdc-form-field + .mat-mdc-form-field {
+  margin-left: 8px;
+}
